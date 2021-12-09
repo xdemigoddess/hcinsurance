@@ -1,0 +1,2 @@
+# Welcome to the Healthcare Insurance Data Exploration & Linear Regression Model Project
+Here, I set out to explore the health insurance charges dataset, courtesy of Machine Learning with R by Brett Lantz, as well as apply multiple linear regression models to the dataset. The aim of this project is to note any significant patterns in the mentioned variables of this dataset, in order to predict charge values. In this repository, you will find the R markdown file as well as its pdf output following it.
